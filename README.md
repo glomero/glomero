@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glomero
-- 👀 I’m interested in javasript, Python and Java 
-- 🌱 I’m currently learning Web developement
+- 👀 I’m interested in Machine Learning and AI 
+- 🌱 I’m currently learning Frond-end developement
 - 💞️ I’m looking to collaborate on any Projects that involve Web development and apps
 - 📫 How to reach me glomerolepaopao@gmail.com  +639568629866
 
