@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glomero&theme=dracula" alt="glomero" /></p>
 
-![snake gif](https://github.com/Glomero Lepaopao(pao)/Glomero Lepaopao(pao)/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Glomero_Lepaopao(pao)/Glomero_Lepaopao(pao)/blob/output/github-contribution-grid-snake.svg)
