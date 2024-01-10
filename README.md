@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glomero&label=Profile%20views&color=0e75b6&style=flat" alt="glomero" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Beer😂**
 
